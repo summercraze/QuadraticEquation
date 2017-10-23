@@ -1,3 +1,9 @@
+/*
+ * This is a code that help to calculate the quadratic equation
+ * by using the quadratic formula.The code would calculate
+ * out the number of root based on determinant and calculate
+ *the root respectively
+ */
 public class QuadraticEquation
 {
 	//this is all the variable used in program
