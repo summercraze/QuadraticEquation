@@ -12,14 +12,14 @@ public class QuadraticEquation
    private double [] answer = new double[2];
    
    //constructor
-   public QuadraticEquation(double a,double b,double c)
+   QuadraticEquation(double a,double b,double c)
    {
 	   this.a = a;
 	   this.b = b;
 	   this.c = c;
    }
    //default constructor
-   public QuadraticEquation()
+   QuadraticEquation()
    {
 	   this(0.0,0.0,0.0);
    }
